@@ -8,7 +8,7 @@ et utiliser l'API via cette adresse : `http://localhost:9000`
 
 # Front
 
-Un front-end en Angular est disponible : https://github.com/tstho/front_between.git
+Un front-end en Angular 16.2.0. est disponible : https://github.com/tstho/front_between.git
 
 Vous pouvez lancer le front-end angular avec la commande 'ng serve'
 
